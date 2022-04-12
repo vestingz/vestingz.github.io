@@ -3,8 +3,8 @@ permalink: /projects/
 title: "Projects"
 ---
 
-# That Project
+### That Project
 It just kept dragging along..
 
-# This Project
+### This Project
 Same here.
