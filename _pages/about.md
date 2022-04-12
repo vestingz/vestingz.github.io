@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "CV."
-excerpt: "Some bits about me."
+title: "Hi."
+excerpt: "Some info about me."
 author_profile: true
 redirect_from: 
   - /about/
