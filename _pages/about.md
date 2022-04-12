@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "This is a test title."
-excerpt: "Is this my landing page?"
+title: "CV."
+excerpt: "Some bits about me."
 author_profile: true
 redirect_from: 
   - /about/
