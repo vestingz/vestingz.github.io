@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Uncle Scrooge"
-  avatar           : "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sven_Lindqvist_in_2018.jpg"
-  bio              : "Some research profile"
+  name             : "Sana Ahmad"
+  avatar           : "https://www.wzb.eu/files/styles/4_column_content_lg/public/image/dst/gap/2021_09_07_Ahmad_2755.jpg"
+  bio              : "Research Fellow (WZB Berlin); Doctoral Candidate (FU Berlin)"
   location         : "Berlin"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "sana.ahmad@wzb.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
