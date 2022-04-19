@@ -11,30 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2018 - Present: PhD, Media and Communication Studies, Freie Universität Berlin, Germany.
+
+* 2015: M.A. (Erasmus Mundus), Human Rights Policy and Practice, University of Göteborg, Sweden, University of Roehampton, UK, University of Tromsø, Norway.
+
+* 2013: M.A. Sociology, Jawaharlal Nehru University, India.
+
+* 2010: B.A. Journalism and Mass Communication, Guru Gobind Singh Indraprastha University, India.
+
+Languages
+======
+
+English (Native), Hindi (Native), Urdu (Native), German (B1)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - Present: Research Fellow, Globalization, Work and Production (Berlin Social Science Center); Doctoral Student (Weizenbaum Institut Berlin, FU Berlin).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2016: Digital Engagement Campaigner, Greenpeace India.
+
+* 2015: Outreach Officer, Amnesty International, Norway.
+
+* June 2014: Research Intern, Shan Women’s Action Network, Thailand.
+
+* Jan - May 2014: Communication Intern, Child Rights International Network, United Kingdom.
+
+* 2010: Researcher, National Foundation for India.
+
+Extra Activities
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* 2015: Asia Europe Foundation Young Leaders Summit, Luxembourg.
+
+* 2015: Rome Model United Nations, Italy.
+
+* 2014: Model Asia Europe Meeting, Italy.
 
 Publications
 ======
